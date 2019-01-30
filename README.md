@@ -1,5 +1,5 @@
 # Analysing Crash Data in QLD
-Everything around us can be represented and understood through numbers and everything has pattern, even road accidents. In this project, we are working with Queensland’s Road Crash data from 2001-2017. The main goal of this project is analysing the data, finding patterns and trying to predict if certain factors are responsible for crashes. Unlike other projects, this project mainly focuses more on visualising, analysing data and finding patterns than predicting.
+Everything around us can be represented and understood through numbers and everything has a pattern, even road accidents. In this project, we are working with Queensland’s Road Crash data from 2001-2017. The main goal of this project is analysing the data, finding patterns and trying to predict if certain factors are responsible for crashes. Unlike other projects, this project mainly focuses more on visualising, analysing data and finding patterns than predicting.
 
 ## Dataset
 This dataset contains information on crashes reported to the police which resulted from the movement of at least 1 road vehicle on a road or road related area.
